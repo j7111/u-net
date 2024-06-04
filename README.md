@@ -1,2 +1,1 @@
-# Building a u-net architecture convolutional neural network
-Building the architecture from the ground up, along with testing the model for image segmentation.
+# This project has moved [here](https://github.com/j7111/mlproj)
